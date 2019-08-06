@@ -3,7 +3,7 @@
 # 算法列表（Updating）
 |No.|Title|Solution|Backup|
 |-|-----|--------|------|
-|1|快速幂|C++|减少pow()函数的计算复杂度|
+|1|[快速幂](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E5%BF%AB%E9%80%9F%E5%B9%82.md)|C++|减少pow()函数的计算复杂度|
 |2|大数加法|C++||
 |3|大数乘法|C++||
 |4|大数阶乘|C++||
