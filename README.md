@@ -9,8 +9,8 @@
 |3|[大数乘法](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E5%A4%A7%E6%95%B0%E4%B9%98%E6%B3%95.md)|C++|hw_middle|超长位数的数字间乘法|
 |4|[大数阶乘](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E5%A4%A7%E6%95%B0%E9%98%B6%E4%B9%98.md)|C++|hw_middle|int范围内数字阶乘|
 |5|[大数幂运算](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E5%A4%A7%E6%95%B0%E5%B9%82%E8%BF%90%E7%AE%97.md)|C++|hw_hard|浮点数（及整数）幂运算|
-|6|[最小公倍数]()|C++|hw_middle|基本类型范围和大数范围不同计算方法|
-|7|[计算组合数]()|C++||
+|6|[大数最小公倍数](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E5%A4%A7%E6%95%B0%E6%9C%80%E5%B0%8F%E5%85%AC%E5%80%8D%E6%95%B0.md)|C++|hw_middle|基本类型范围和大数范围不同计算方法|
+|7|[大数组合数]()|C++||
 |8|[整数拆分]()|C++||
 |9|[最长上升子序列]()|C++||
 |10|[柱状图中最大矩形]()|C++||
