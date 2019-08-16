@@ -16,7 +16,7 @@
 |7|[大数组合数](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E5%A4%A7%E6%95%B0%E7%BB%84%E5%90%88%E6%95%B0.md)|C++||多做几遍，质因数分解方法比较重要|
 |8|[字符串-无重复字符的最长子串](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md)|C++|Medium|经典题目，HashMap和滑动窗口|
 |9|[字符串-最长回文字符串](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2-%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md)|C++|Medium|直接搜索法和马拉车算法|
-|10|[整数拆分]()|C++||
+|10|[整数拆分](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E6%95%B4%E6%95%B0%E6%8B%86%E5%88%86.md)|C++|递归法和动态规划法，注意递归思路|
 |11|[最长上升子序列]()|C++||
 |12|[柱状图中最大矩形]()|C++||
 |13|[背包问题]()|C++||
