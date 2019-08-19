@@ -17,7 +17,7 @@
 |8|[字符串-无重复字符的最长子串](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.md)|C++|Medium|经典题目，HashMap和滑动窗口|
 |9|[字符串-最长回文字符串](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2-%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md)|C++|Medium|直接搜索法和马拉车算法|
 |10|[整数拆分](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E6%95%B4%E6%95%B0%E6%8B%86%E5%88%86.md)|C++|Easy|递归法和动态规划法，注意递归思路|
-|11|[最长上升子序列]()|C++||
+|11|[最长上升子序列](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97.md)|C++|Medium|动态规划和贪心算法，多做几遍|
 |12|[柱状图中最大矩形](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2.md)|C++||递增栈思想，可以多看看|
 |13|[背包问题]()|C++||
 
