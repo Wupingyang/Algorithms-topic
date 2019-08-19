@@ -19,6 +19,7 @@
 |10|[整数拆分](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E6%95%B4%E6%95%B0%E6%8B%86%E5%88%86.md)|C++|Easy|递归法和动态规划法，注意递归思路|
 |11|[最长上升子序列](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97.md)|C++|Medium|动态规划和贪心算法，多做几遍|
 |12|[柱状图中最大矩形](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2.md)|C++||递增栈思想，可以多看看|
-|13|[背包问题]()|C++||
+|13|[排序算法](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)|C++|||
+|14|[背包问题]()|C++||
 
 来源于huawei, leetcode, niuke等OJ平台.
