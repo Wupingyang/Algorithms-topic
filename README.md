@@ -22,6 +22,8 @@
 |13|[排序算法](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)|C++||十大经典排序算法（动图演示），需要常回顾|
 |14|[BFS-岛屿数量](https://github.com/Wupingyang/Algorithms-topic/blob/master/BFS-%E5%B2%9B%E5%B1%BF%E6%95%B0%E9%87%8F.md)|C++|Medium|涉及pair（也可以字符串整数相互转换），BFS等多个知识点，多回顾|
 |15|[BFS-完全平方数](https://github.com/Wupingyang/Algorithms-topic/blob/master/BFS-%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.md)|C++|Medium|涉及平方数特性，BFS等知识点，多回顾|
-|15|[背包问题]()|C++||
+|16|[栈-每日温度](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E6%A0%88-%E6%AF%8F%E6%97%A5%E6%B8%A9%E5%BA%A6.md)|C++|Medium|递减栈的使用方法，类似递增栈，思想很棒|
+|17|[背包问题]()|C++||
+
 
 来源于huawei, leetcode, niuke等OJ平台.
