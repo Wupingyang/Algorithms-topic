@@ -24,6 +24,7 @@
 |15|[BFS-完全平方数](https://github.com/Wupingyang/Algorithms-topic/blob/master/BFS-%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.md)|C++|Medium|涉及平方数特性，BFS等知识点，多回顾|
 |16|[栈-每日温度](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E6%A0%88-%E6%AF%8F%E6%97%A5%E6%B8%A9%E5%BA%A6.md)|C++|Medium|递减栈的使用方法，类似递增栈，思想很棒|
 |17|[栈-逆波兰表达式求值](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E6%A0%88-%E9%80%86%E6%B3%A2%E5%85%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B1%82%E5%80%BC.md)|C++|Medium|概念，小知识点较多|
+|18|[数组-寻找数组的中心索引](https://github.com/Wupingyang/Algorithms-topic/blob/master/%E6%95%B0%E7%BB%84-%E5%AF%BB%E6%89%BE%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E5%BF%83%E7%B4%A2%E5%BC%95.md)|C++|Easy|小技巧，accumulate的使用|
 |18|[背包问题]()|C++||
 
 
